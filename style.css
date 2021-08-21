@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+
+
+body {text-align: center;
+      background-image: url(kimotii.png);
+      background-repeat: no-repeat;
+      background-size: cover;
+      font-family: 'Kaisei Opti', serif;
+    }
+
+header{
+    background-image: url(flower.jpg);
+    background-repeat: no-repeat;
+
+
+    text-align: center;
+    font-family: 'Kaisei Opti', serif;
+    
+    }
